@@ -42,11 +42,6 @@ h2{
     border-radius: 5px;
     outline: none;
 }
-.content small{
-    color: #ff0001;
-    font-size: 0.8em;
-    margin-top: 5px;
-}
 .content input:focus{
     border-color: #5cb85c;
 }
@@ -71,5 +66,6 @@ button:active{
         padding: 20px;
     }
 }
+
 
 /* github = https://github.com/hu-matin */
